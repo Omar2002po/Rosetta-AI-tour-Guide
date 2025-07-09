@@ -39,12 +39,12 @@ Rosetta is an AI-powered mobile application designed to bridge the gap between c
 
 ## Team Members
 
-- **Omar Younis** - [GitHub](https://github.com/oyounis19)
+- **Omar Adbelnasser** - [GitHub](https://github.com/Omar2002po)
 - **Khaled Ashraf** - [GitHub](https://github.com/khaaaleed-5)
 - **Abdullah Hamdi** - [GitHub](https://github.com/AbdullaAlshayeb)
-- **Omar Adbelnasser** - [GitHub](https://github.com/Omar2002po)
 - **Ali Eldeep** - [GitHub](https://github.com/Eldeep1)
 - **Ahmed Lotfy** - [GitHub](https://github.com/Ahmed-Ebrahim-23)
+- - **Omar Younis** - [GitHub](https://github.com/oyounis19)
 
 ## 🙏 Acknowledgements
 
