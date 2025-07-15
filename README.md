@@ -44,7 +44,7 @@ Rosetta is an AI-powered mobile application designed to bridge the gap between c
 - **Abdullah Hamdi** - [GitHub](https://github.com/AbdullaAlshayeb)
 - **Ali Eldeep** - [GitHub](https://github.com/Eldeep1)
 - **Ahmed Lotfy** - [GitHub](https://github.com/Ahmed-Ebrahim-23)
-- - **Omar Younis** - [GitHub](https://github.com/oyounis19)
+- **Omar Younis** - [GitHub](https://github.com/oyounis19)
 
 ## 🙏 Acknowledgements
 
